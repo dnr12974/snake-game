@@ -39,4 +39,5 @@ Restart Option: Press Enter on the game-over screen to restart.
 3)AI Opponent: Compete against a snake controlled by AI.
 
 4)Multiplayer Mode: Add a second snake for competitive gameplay.
+
 This task was assigned to me by Internpe.
